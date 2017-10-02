@@ -1,3 +1,7 @@
+# CIFAR-10 classification using TensorFlow
+# Dataset obtained from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+# Model trained on FloydHub
+
 import tensorflow as tf
 import numpy as np
 
